@@ -1,7 +1,6 @@
 - 👋 Hello, I am Taiwo Owolabi.
-- I’m interested in Cybersecurity, Cybercrime and Crypto investigations.
-- 🌱 I’m currently learning  Cybersecurity.
-- 💞️ I’m looking to collaborate on Cybersecurity, Cybercrime and Crypto investigations.
+- I’m interested in Blockchain and Open-Source Intellingence.
+- 💞️ I’m looking to collaborate on Cybercrime and Crypto investigations.
 - 📫 You can reach me via https://www.linkedin.com/in/otowolabi
 
 <!---
